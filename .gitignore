@@ -3,10 +3,9 @@
 target
 *.o
 *.cc
-*.so
 target/
 !.mvn/wrapper/maven-wrapper.jar
-
+libkenlm-jni.so
 ### STS ###
 .apt_generated
 .classpath
